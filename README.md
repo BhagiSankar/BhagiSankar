@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhagiSankar
+- 👋 Hi, I’m @Bhagyasri
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning node js ,and css
 - 💞️ I’m looking to collaborate on full stack development
